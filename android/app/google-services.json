@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233547349624",
+    "project_id": "shophere-92856",
+    "storage_bucket": "shophere-92856.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233547349624:android:48f73249484ca26232b78d",
+        "android_client_info": {
+          "package_name": "com.nyinyi.shophere.shophere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv33LpbXg6IxiUdXnf6zhxDbMNLn6wtdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
